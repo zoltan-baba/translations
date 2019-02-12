@@ -1,5 +1,4 @@
 ---
-# jp title missing
 title: iOSの実機テスト
 menu:
   testing:
