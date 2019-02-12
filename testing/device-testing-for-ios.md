@@ -1,6 +1,6 @@
 ---
 # jp title missing
-title: Device testing for iOS
+title: iOSの実機テスト
 menu:
   testing:
     weight: 4
