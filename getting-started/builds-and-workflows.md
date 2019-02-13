@@ -1,13 +1,13 @@
 ---
-# jp title missing
-title: Builds
+title: ビルドとワークフロー
 redirect_from:
-- "/getting-started/builds-and-workflows"
-- "/getting-started/builds-and-workflows/"
+  - "/getting-started/builds-and-workflows"
+  - "/getting-started/builds-and-workflows/"
 menu:
   getting-started:
     weight: 4
 ---
+
 ## ビルドとワークフロー
 
 アプリを Bitrise に追加したら、自動的に初回ビルドが開始されます。

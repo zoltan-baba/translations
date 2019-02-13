@@ -1,12 +1,12 @@
 ---
-# jp title missing
-title: Restore NuGet packages
+title: NuGet パッケージの復元
 redirect_from:
-- "/xamarin/restore-nuget-packages"
+  - "/xamarin/restore-nuget-packages"
 menu:
   xamarin:
     weight: 2
 ---
+
 [NuGet](https://www.nuget.org/)パッケージを復元するためには、
 [bitrise.io](https://www.bitrise.io)のページで自身のアプリのページに行き、
 ワークフローエディタを開くために`WorkFlow`タブを選択してください。
