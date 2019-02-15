@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Managing iOS code signing files - automatic provisioning
+title: iOS コード署名証明書の管理 - 自動プロビジョニング
 menu:
   ios-code-signing:
     weight: 3

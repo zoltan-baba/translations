@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Rolling builds
+title: ビルドの自動キャンセル
 menu:
   builds:
     weight: 4

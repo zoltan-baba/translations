@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Generating code signing files
+title: コード署名証明書の作成
 menu:
   ios-code-signing:
     weight: 10

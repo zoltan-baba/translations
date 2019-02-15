@@ -1,5 +1,5 @@
 ---
-title: Setting up configuration
+title: プロジェクトの設定
 redirect_from:
 - "/adding-a-new-app/setting-up-configuration"
 menu:

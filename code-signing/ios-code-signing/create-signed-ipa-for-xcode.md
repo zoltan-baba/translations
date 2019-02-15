@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Creating a signed .ipa for Xcode projects
+title: Xcode プロジェクトでの署名付き .ipa の作成
 menu:
   ios-code-signing:
     weight: 5

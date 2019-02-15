@@ -1,6 +1,6 @@
 ---
 # jp title missing
-title: Triggering builds
+title: ビルドトリガー
 menu:
   triggering-builds:
     weight: 1

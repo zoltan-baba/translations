@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Android code signing in Gradle
+title: Gradle で Android のコード署名
 menu:
   android-code-signing:
     weight: 4
