@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Caching Ruby Gems
+title: Ruby Gems のキャッシュ
 menu:
   caching:
     weight: 5

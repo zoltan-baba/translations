@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Collecting and exporting code signing files with codesigndoc
+title: codesigndoc で署名証明書を収集してエクスポートする
 menu:
   ios-code-signing:
     weight: 2

@@ -1,5 +1,5 @@
 ---
-title: Setting up SSH keys
+title: SSHキーの設定
 redirect_from:
 - "/adding-a-new-app/setting-up-ssh-keys/"
 menu:
