@@ -1,5 +1,5 @@
 ---
-title: Signing up with GitHub
+title: GitHubを使ったサインアップ
 menu:
   signing-up:
     weight: 1

@@ -1,5 +1,5 @@
 ---
-title: Connecting your Apple Developer Account to Bitrise
+title: Apple DeveloperアカウントをBitriseと連携させる
 redirect_from:
 - "/signing-up/connecting-apple-dev-account"
 menu:

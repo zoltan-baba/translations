@@ -1,5 +1,5 @@
 ---
-title: Connecting a repository
+title: レポジトリへのアクセス
 redirect_from:
 - https:/getting-started/adding-a-new-app/connecting-your-repository
 menu:

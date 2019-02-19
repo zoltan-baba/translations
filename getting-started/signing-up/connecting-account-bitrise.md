@@ -1,5 +1,5 @@
 ---
-title: Connecting your GitHub/GitLab/Bitbucket account to Bitrise
+title: GitHub/GitLab/BitbucketアカウントをBitriseと連携させる
 redirect_from:
 - "/getting-started/adding-a-new-app/connecting-account-bitrise"
 menu:

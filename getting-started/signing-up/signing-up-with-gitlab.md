@@ -1,5 +1,5 @@
 ---
-title: Signing up with GitLab
+title: GitLabを使ったサインアップ
 menu:
   signing-up:
     weight: 3

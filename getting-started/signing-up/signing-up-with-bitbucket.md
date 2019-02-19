@@ -1,5 +1,5 @@
 ---
-title: Signing up with Bitbucket
+title: Bitbucketを使ったサインアップ
 menu:
   signing-up:
     weight: 2

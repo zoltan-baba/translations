@@ -1,5 +1,5 @@
 ---
-title: Signing up with email
+title: メールアドレスを使ったサインアップ
 menu:
   signing-up:
     weight: 4

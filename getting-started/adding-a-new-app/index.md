@@ -1,5 +1,5 @@
 ---
-title: Adding a new app
+title: 新しいアプリの追加
 redirect_from:
 - "/tutorials/deploy/android-deployment/getting-started/adding-a-new-app"
 - "/adding-a-new-app/"

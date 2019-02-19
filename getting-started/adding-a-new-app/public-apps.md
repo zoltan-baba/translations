@@ -1,5 +1,5 @@
 ---
-title: Public apps
+title: アプリの公開
 redirect_from:
 - "/adding-a-new-app/public-apps/"
 menu:
